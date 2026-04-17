@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-rdkit-pypi
+openai
 numpy
 requests
-openai
 selfies
 pydantic
+rdkit-pypi
